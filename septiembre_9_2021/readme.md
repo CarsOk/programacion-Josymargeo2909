@@ -42,12 +42,12 @@ End Sub
 ``
 void main(){
     
-  int a = 10;
-  int b = 20;
-  int c = 5;
-  int d = 10;
-  int e = 15;
-  int f = a + b + c + d + e;
-  print("el resultado de la suma es $f");
+    int a = 10;
+    int b = 20;
+    int c = 5;
+    int d = 10;
+    int e = 15;
+    int f = a + b + c + d + e;
+    print("el resultado de la suma es $f");
 }
 ``
