@@ -4,11 +4,12 @@ En esta clase aprendi a programar en los distintos escenarios
 
 ## Ejercicio en estaruml
 
-<img src="img/programa.jpg" width="500">
+<img src="img/programa.jpeg" width="500">
 
 ## Ejercicio en editor visual estudio code
 
 inicio
+
     lea "digite primer numero", a
     lea "digite segundo numero", b
     lea "digite tercer numero", c
@@ -23,6 +24,7 @@ fin
 
 ``
 Sub inicio()
+
     a = InputBox("digite primer numero")
     b = InputBox("digite segundo numero")
     c = InputBox("digite tercer numero")
@@ -37,6 +39,7 @@ End Sub
 
 ``
 void main(){
+
   int a = 10;
   int b = 20;
   int c = 5;
