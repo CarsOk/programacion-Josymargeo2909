@@ -4,7 +4,7 @@ En esta clase aprendi a programar en los distintos escenarios
 
 ## Ejercicio en estaruml
 
-<img src="img/programa.jpeg" width="500">
+<img src="img/programa.jpg" width="500">
 
 ## Ejercicio en editor visual estudio code
 
