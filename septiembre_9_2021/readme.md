@@ -23,6 +23,7 @@ fin
 ## Ejercicio en visual basic
 
 ``
+
 Sub inicio()
 
     a = InputBox("digite primer numero")
@@ -34,6 +35,7 @@ Sub inicio()
     g = Int(f) / 5
     MsgBox "el promedio es = " & g
 End Sub
+
 ``
 ## Ejercicio en darpad
 
