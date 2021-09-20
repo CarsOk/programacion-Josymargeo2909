@@ -52,11 +52,14 @@ void main(){
     int b = 10;
     int c = 5;
     int d = 5;
-    int e = a + b + c + d;
-    if (e > 7){
-        print("el numero $e es mayor que 7");
+
+    int suma = a + b + c + d;
+    double promedio = suma / 4;
+
+    if (promedio > 7){
+        print("nota aprovada");
     }else{
-        print("el numero $e es menor o igual a 7");
+        print("nota reprobada");
   }
 }
 ``

@@ -23,4 +23,4 @@ void main() {
 ``
 ## Ejercicio staruml
 
-<img src="img/diagrama.jpg" width="500">
+<img src="diagrama.jpg" width="500">
