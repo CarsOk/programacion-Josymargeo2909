@@ -2,7 +2,9 @@
 
 Clases de funcion con diferentes variable
 
-# Visual Basic
+## Visual Basic
+
+### Funcion
 
 ``
 
@@ -15,3 +17,21 @@ Clases de funcion con diferentes variable
         misnotas = "con la nota " & promedio & " el estudiante reprobo "
     End If
     End Function
+
+## Visual basic
+
+### Prueba 1
+
+``
+
+    Sub prueba1()
+    datos.Cells(6, 1) = form.Cells(9, 7)
+    datos.Cells(6, 2) = form.Cells(12, 7)
+    MsgBox "datos ingresados"
+    form.Cells(9, 7) = Empty
+    form.Cells(12, 7) = ""
+    
+    End Sub
+``
+
+<img src="usuario.jpg" width="500">
