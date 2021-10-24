@@ -2,4 +2,4 @@
 
 [clase 11 de Octubre](octubre_11_2021/readme.md)
 
-[conocimiento ciclo while](conocimiento/readme)
+[conocimiento ciclo while](conocimiento/readme.md)
