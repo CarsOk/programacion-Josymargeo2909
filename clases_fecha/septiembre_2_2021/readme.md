@@ -15,10 +15,9 @@ End Sub
 
 ## Ejercicio en darpad
 
-``
 void main() {
   print ( hola mundo );
-  
+  print ()
 }
 ``
 ## Ejercicio staruml
