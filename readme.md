@@ -7,3 +7,5 @@
 [Clases de Noviembre del 2021](clases_noviembre/readme.md)
 
 [Clases de Febrero del 2022](clase_febrero/readme.md)
+
+[Clases de julio del 2022](clase_julio/readme.md)
